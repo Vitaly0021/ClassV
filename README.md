@@ -1,4 +1,4 @@
-# Software Development Academy - Java Riga 2
+# Software - Java Riga 2
 
 Let's start with Version Control Systems - GIT.
 
@@ -7,3 +7,5 @@ Let's start with Version Control Systems - GIT.
 https://git-scm.com/docs/
 
 https://www.atlassian.com/git/tutorials
+
+hello vitalijs 
